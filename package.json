@@ -1,0 +1,20 @@
+{
+  "name": "swaggy",
+  "version": "1.0.0",
+  "description": "noob app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "chai"
+  ],
+  "author": "Swagatam",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.1",
+    "express": "^4.18.2",
+    "git": "^0.1.5"
+  }
+}
